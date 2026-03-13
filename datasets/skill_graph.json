@@ -1,0 +1,102 @@
+{
+    "python": ["pandas", "numpy", "flask"],
+    "javascript": ["react", "nodejs", "typescript"],
+    "typescript": ["javascript", "react", "angular"],
+    "java": ["spring boot", "object oriented programming", "design patterns"],
+    "c++": ["data structures", "algorithms", "object oriented programming"],
+    
+    "sql": ["postgresql", "mysql", "query optimization"],
+    "html": ["css", "responsive design", "flexbox"],
+    "css": ["flexbox", "css grid", "responsive design"],
+    
+    "react": ["javascript", "redux", "webpack"],
+    "vuejs": ["javascript", "webpack", "responsive design"],
+    "angular": ["typescript", "javascript", "web security"],
+    
+    "nodejs": ["express", "rest api", "docker"],
+    "express": ["nodejs", "rest api", "authentication"],
+    "django": ["python", "rest api", "postgresql"],
+    "flask": ["python", "rest api", "model deployment"],
+    "fastapi": ["python", "rest api", "docker"],
+    
+    "rest api": ["json", "authentication", "api security"],
+    "graphql": ["api design", "nodejs", "authentication"],
+    
+    "postgresql": ["sql", "indexing", "data modeling"],
+    "mongodb": ["nosql", "data modeling", "scalability"],
+    "redis": ["performance optimization", "data structures"],
+    
+    "pandas": ["python", "numpy", "data visualization"],
+    "numpy": ["python", "linear algebra", "machine learning"],
+    "matplotlib": ["python", "data visualization", "statistics"],
+    
+    "scikit learn": ["machine learning", "feature engineering", "model evaluation"],
+    
+    "machine learning": ["statistics", "scikit learn", "deep learning"],
+    "deep learning": ["neural networks", "tensorflow", "pytorch"],
+    "neural networks": ["deep learning", "cnn", "rnn"],
+    
+    "cnn": ["computer vision", "deep learning", "tensorflow"],
+    "rnn": ["natural language processing", "deep learning", "time series analysis"],
+    
+    "transformers": ["natural language processing", "deep learning", "hugging face"],
+    "natural language processing": ["machine learning", "transformers"],
+    "computer vision": ["cnn", "deep learning"],
+    
+    "tensorflow": ["deep learning", "neural networks", "model deployment"],
+    "pytorch": ["deep learning", "neural networks", "model deployment"],
+    
+    "model deployment": ["docker", "flask", "mlops"],
+    "mlops": ["docker", "kubernetes", "model monitoring"],
+    
+    "docker": ["kubernetes", "containerization", "devops"],
+    "kubernetes": ["docker", "orchestration", "cloud computing"],
+    
+    "aws": ["cloud computing", "terraform", "docker"],
+    "azure": ["cloud computing", "devops", "kubernetes"],
+    "google cloud": ["cloud computing", "kubernetes"],
+    
+    "terraform": ["infrastructure as code", "aws", "devops"],
+    
+    "jenkins": ["continuous integration", "continuous delivery", "devops"],
+    "github actions": ["continuous integration", "continuous delivery", "version control"],
+    
+    "linux": ["bash", "shell scripting", "devops"],
+    "bash": ["shell scripting", "linux", "automation"],
+    
+    "cybersecurity": ["network security", "application security", "cloud security"],
+    "network security": ["cybersecurity", "application security"],
+    
+    "application security": ["web security", "api security", "secure coding"],
+    
+    "api security": ["authentication", "authorization", "oauth"],
+    "authentication": ["authorization", "oauth", "jwt"],
+    
+    "authorization": ["authentication", "identity and access management", "oauth"],
+    
+    "oauth": ["authentication", "authorization", "sso"],
+    "jwt": ["authentication", "rest api", "api security"],
+    
+    "cloud security": ["aws", "azure", "identity and access management"],
+    
+    "monitoring": ["logging", "observability", "prometheus"],
+    "logging": ["monitoring", "elk stack", "observability"],
+    "observability": ["monitoring", "logging"],
+    
+    "prometheus": ["monitoring", "grafana"],
+    "grafana": ["monitoring", "prometheus"],
+    
+    "data visualization": ["matplotlib", "seaborn"],
+    
+    "feature engineering": ["machine learning", "pandas", "model evaluation"],
+    "model evaluation": ["statistics", "cross validation"],
+    
+    "cross validation": ["model evaluation", "scikit learn", "machine learning"],
+    
+    "distributed systems": ["message queues", "scalability", "high availability"],
+    
+    "message queues": ["kafka", "rabbitmq", "event driven architecture"],
+    
+    "kafka": ["message queues", "event driven architecture"],
+    "rabbitmq": ["message queues", "microservices"]
+    }

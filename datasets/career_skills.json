@@ -1,0 +1,226 @@
+{
+    "ai engineer": [
+    "python",
+    "machine learning",
+    "deep learning",
+    "tensorflow",
+    "pytorch",
+    "model deployment",
+    "mlops"
+    ],
+    
+    "data scientist": [
+    "python",
+    "statistics",
+    "probability",
+    "pandas",
+    "numpy",
+    "scikit learn",
+    "data visualization",
+    "sql",
+    "feature engineering"
+    ],
+    
+    "machine learning engineer": [
+    "python",
+    "machine learning",
+    "scikit learn",
+    "feature engineering",
+    "model evaluation",
+    "hyperparameter tuning",
+    "tensorflow",
+    "pytorch",
+    "model deployment",
+    "mlops"
+    ],
+    
+    "data analyst": [
+    "sql",
+    "statistics",
+    "data visualization",
+    "pandas",
+    "python",
+    "data modeling"
+    ],
+    
+    "data engineer": [
+    "python",
+    "sql",
+    "data modeling",
+    "etl pipelines",
+    "data warehousing",
+    "spark",
+    "hadoop",
+    "aws",
+    "kafka"
+    ],
+    
+    "full stack developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "nodejs",
+    "express",
+    "rest api",
+    "postgresql",
+    "git",
+    "docker"
+    ],
+    
+    "frontend developer": [
+    "html",
+    "css",
+    "javascript",
+    "react",
+    "responsive design",
+    "css grid",
+    "flexbox",
+    "webpack"
+    ],
+    
+    "backend developer": [
+    "nodejs",
+    "express",
+    "rest api",
+    "sql",
+    "postgresql",
+    "authentication",
+    "authorization",
+    "docker",
+    "unit testing"
+    ],
+    
+    "web developer": [
+    "html",
+    "css",
+    "javascript",
+    "responsive design",
+    "react",
+    "nodejs",
+    "rest api",
+    "git"
+    ],
+    
+    "cloud engineer": [
+    "cloud computing",
+    "aws",
+    "azure",
+    "google cloud",
+    "docker",
+    "kubernetes",
+    "network security",
+    "infrastructure as code",
+    "terraform"
+    ],
+    
+    "devops engineer": [
+    "linux",
+    "bash",
+    "git",
+    "docker",
+    "kubernetes",
+    "continuous integration",
+    "continuous delivery",
+    "jenkins",
+    "github actions",
+    "monitoring"
+    ],
+    
+    "site reliability engineer": [
+    "linux",
+    "distributed systems",
+    "performance optimization",
+    "monitoring",
+    "logging",
+    "observability",
+    "kubernetes",
+    "load balancing",
+    "auto scaling"
+    ],
+    
+    "cybersecurity analyst": [
+    "cybersecurity",
+    "network security",
+    "application security",
+    "vulnerability scanning",
+    "penetration testing",
+    "siem",
+    "threat modeling",
+    "secure coding"
+    ],
+    
+    "security engineer": [
+    "application security",
+    "api security",
+    "cloud security",
+    "identity and access management",
+    "oauth",
+    "jwt",
+    "zero trust",
+    "security testing"
+    ],
+    
+    "database administrator": [
+    "postgresql",
+    "mysql",
+    "sql server",
+    "database normalization",
+    "indexing",
+    "query optimization",
+    "monitoring"
+    ],
+    
+    "mlops engineer": [
+    "python",
+    "docker",
+    "kubernetes",
+    "mlops",
+    "model deployment",
+    "model monitoring",
+    "logging",
+    "monitoring"
+    ],
+    
+    "nlp engineer": [
+    "python",
+    "natural language processing",
+    "transformers",
+    "hugging face",
+    "deep learning",
+    "pytorch",
+    "model deployment"
+    ],
+    
+    "computer vision engineer": [
+    "python",
+    "computer vision",
+    "cnn",
+    "deep learning",
+    "pytorch",
+    "tensorflow",
+    "model deployment"
+    ],
+    
+    "mobile app developer": [
+    "android development",
+    "ios development",
+    "kotlin",
+    "swift",
+    "react native",
+    "flutter",
+    "rest api",
+    "git"
+    ],
+    
+    "software engineer": [
+    "data structures",
+    "algorithms",
+    "object oriented programming",
+    "design patterns",
+    "clean code",
+    "unit testing",
+    "version control",
+    "system design"
+    ]
+    }

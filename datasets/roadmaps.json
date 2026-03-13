@@ -1,0 +1,139 @@
+{
+    "ai engineer": [
+    "python programming",
+    "statistics and linear algebra",
+    "machine learning fundamentals",
+    "deep learning with tensorflow or pytorch",
+    "computer vision or natural language processing",
+    "model deployment and mlops",
+    "build end to end ai projects"
+    ],
+    
+    "data scientist": [
+    "python programming",
+    "statistics and probability",
+    "data analysis with pandas and numpy",
+    "machine learning algorithms",
+    "data visualization and storytelling",
+    "sql and real world datasets",
+    "data science projects"
+    ],
+    
+    "machine learning engineer": [
+    "python and data structures",
+    "machine learning fundamentals",
+    "feature engineering and model tuning",
+    "deep learning frameworks",
+    "model deployment with apis",
+    "mlops and monitoring"
+    ],
+    
+    "data engineer": [
+    "python and sql fundamentals",
+    "data modeling and database design",
+    "etl pipelines",
+    "spark and big data processing",
+    "cloud data platforms",
+    "scalable data pipelines"
+    ],
+    
+    "full stack developer": [
+    "html css and javascript",
+    "frontend framework like react",
+    "backend development with nodejs or python",
+    "database design and sql",
+    "rest api development",
+    "docker and deployment",
+    "full stack project"
+    ],
+    
+    "frontend developer": [
+    "html css responsive design",
+    "modern javascript",
+    "react vue or angular",
+    "state management and routing",
+    "api integration",
+    "frontend projects"
+    ],
+    
+    "backend developer": [
+    "backend language python javascript or java",
+    "rest api design",
+    "database management",
+    "authentication and authorization",
+    "docker and containerization",
+    "microservices architecture"
+    ],
+    
+    "cloud engineer": [
+    "cloud computing fundamentals",
+    "aws azure or google cloud",
+    "networking and identity management",
+    "infrastructure as code",
+    "application deployment",
+    "scalable cloud architecture"
+    ],
+    
+    "devops engineer": [
+    "linux bash and networking",
+    "git and ci cd pipelines",
+    "docker containerization",
+    "kubernetes orchestration",
+    "monitoring and logging",
+    "infrastructure automation"
+    ],
+    
+    "site reliability engineer": [
+    "linux networking distributed systems",
+    "monitoring and alerting",
+    "reliability engineering concepts",
+    "kubernetes and scaling",
+    "incident response",
+    "high availability system design"
+    ],
+    
+    "cybersecurity analyst": [
+    "cybersecurity fundamentals",
+    "network and operating system security",
+    "vulnerability scanning",
+    "application security testing",
+    "siem and incident response",
+    "cloud security specialization"
+    ],
+    
+    "security engineer": [
+    "software engineering basics",
+    "application security",
+    "authentication and authorization",
+    "security testing and code review",
+    "cloud and devops security",
+    "enterprise security controls"
+    ],
+    
+    "mlops engineer": [
+    "python and machine learning workflows",
+    "docker and containerization",
+    "model deployment patterns",
+    "model monitoring and logging",
+    "kubernetes and ci cd",
+    "mlops platform design"
+    ],
+    
+    "nlp engineer": [
+    "python and machine learning",
+    "natural language processing fundamentals",
+    "classical nlp models",
+    "transformers and language models",
+    "nlp applications",
+    "model deployment"
+    ],
+    
+    "computer vision engineer": [
+    "python and image processing",
+    "classical computer vision",
+    "convolutional neural networks",
+    "object detection and segmentation",
+    "model optimization",
+    "computer vision projects"
+    ]
+    }
