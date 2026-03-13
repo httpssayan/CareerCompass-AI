@@ -1,0 +1,254 @@
+{
+    "python": [
+      "python official documentation (docs.python.org)",
+      "freecodecamp scientific computing with python",
+      "automate the boring stuff with python",
+      "python crash course by eric matthes",
+      "real python tutorials"
+    ],
+  
+    "machine learning": [
+      "coursera machine learning by andrew ng",
+      "google machine learning crash course",
+      "hands-on machine learning with scikit-learn, keras & tensorflow",
+      "kaggle intro to machine learning",
+      "fast.ai practical deep learning course"
+    ],
+  
+    "deep learning": [
+      "deep learning specialization by deeplearning.ai",
+      "deep learning book by ian goodfellow",
+      "fast.ai deep learning for coders",
+      "pytorch deep learning tutorials",
+      "deeplearning.ai deep learning courses"
+    ],
+  
+    "pytorch": [
+      "pytorch official tutorials",
+      "pytorch documentation",
+      "udacity intro to deep learning with pytorch",
+      "freecodecamp pytorch course",
+      "practical deep learning with pytorch book"
+    ],
+  
+    "tensorflow": [
+      "tensorflow official tutorials",
+      "tensorflow in practice specialization",
+      "hands-on machine learning with keras and tensorflow",
+      "deep learning with tensorflow book",
+      "tensorflow youtube tutorials"
+    ],
+  
+    "natural language processing": [
+      "stanford cs224n course",
+      "hugging face transformers course",
+      "deeplearning.ai nlp specialization",
+      "nlp with python nltk book",
+      "kaggle nlp projects"
+    ],
+  
+    "computer vision": [
+      "stanford cs231n course",
+      "pytorch computer vision tutorials",
+      "opencv official documentation",
+      "fast.ai computer vision course",
+      "kaggle image classification projects"
+    ],
+  
+    "sql": [
+      "sqlbolt interactive sql tutorial",
+      "mode analytics sql tutorial",
+      "khan academy intro to sql",
+      "postgresql documentation",
+      "datacamp sql for data science"
+    ],
+  
+    "data visualization": [
+      "matplotlib documentation",
+      "seaborn documentation",
+      "datacamp data visualization in python",
+      "storytelling with data book",
+      "kaggle data visualization projects"
+    ],
+  
+    "pandas": [
+      "pandas official documentation",
+      "python for data analysis by wes mckinney",
+      "freecodecamp pandas tutorial",
+      "datacamp pandas course",
+      "kaggle pandas notebooks"
+    ],
+  
+    "numpy": [
+      "numpy official documentation",
+      "real python numpy tutorials",
+      "datacamp intro to numpy",
+      "freecodecamp numpy course",
+      "kaggle numpy practice notebooks"
+    ],
+  
+    "scikit learn": [
+      "scikit-learn official documentation",
+      "scikit-learn tutorials on datacamp",
+      "machine learning projects using scikit-learn",
+      "kaggle scikit-learn notebooks"
+    ],
+  
+    "feature engineering": [
+      "feature engineering for machine learning book",
+      "kaggle feature engineering tutorials",
+      "datacamp feature engineering course",
+      "practical feature engineering case studies"
+    ],
+  
+    "model deployment": [
+      "fastapi ml deployment tutorials",
+      "dockerizing machine learning models",
+      "ml deployment using kubernetes",
+      "deploying ml models on aws"
+    ],
+  
+    "react": [
+      "react official documentation",
+      "scrimba learn react course",
+      "freecodecamp react certification",
+      "react for beginners by wes bos",
+      "fullstackopen react tutorials"
+    ],
+  
+    "node.js": [
+      "node.js official documentation",
+      "freecodecamp node and express course",
+      "the odin project node.js curriculum",
+      "node school workshops",
+      "node.js crash course tutorials"
+    ],
+  
+    "docker": [
+      "docker official documentation",
+      "play with docker labs",
+      "docker crash course freecodecamp",
+      "docker mastery course",
+      "docker hands-on tutorials"
+    ],
+  
+    "kubernetes": [
+      "kubernetes official documentation",
+      "kubernetes basics interactive tutorial",
+      "kubernetes for beginners course",
+      "ckad certification preparation",
+      "kubernetes by example"
+    ],
+  
+    "aws": [
+      "aws skill builder courses",
+      "aws certified cloud practitioner training",
+      "aws official documentation",
+      "freecodecamp aws tutorials",
+      "acloudguru aws courses"
+    ],
+  
+    "devops": [
+      "the devops handbook",
+      "roadmap.sh devops path",
+      "freecodecamp devops tutorials",
+      "linux foundation devops courses",
+      "ci cd pipeline projects"
+    ],
+  
+    "cloud computing": [
+      "cloud computing courses on coursera",
+      "google cloud fundamentals",
+      "aws cloud fundamentals",
+      "azure cloud basics",
+      "cloud hands-on deployment projects"
+    ],
+  
+    "linux": [
+      "linux journey interactive tutorials",
+      "the linux command line book",
+      "edx introduction to linux",
+      "freecodecamp linux course",
+      "manage your own linux server project"
+    ],
+  
+    "git": [
+      "git official documentation",
+      "atlassian git tutorials",
+      "try github interactive tutorial",
+      "freecodecamp git course",
+      "learngitbranching interactive practice"
+    ],
+  
+    "html": [
+      "mdn html guide",
+      "freecodecamp responsive web design",
+      "w3schools html tutorials",
+      "the odin project html foundations",
+      "build portfolio pages using html"
+    ],
+  
+    "css": [
+      "mdn css guide",
+      "css tricks tutorials",
+      "freecodecamp css curriculum",
+      "flexbox froggy game",
+      "advanced css course by jonas schmedtmann"
+    ],
+  
+    "javascript": [
+      "mdn javascript guide",
+      "eloquent javascript book",
+      "freecodecamp javascript certification",
+      "javascript30 by wes bos",
+      "the odin project javascript path"
+    ],
+  
+    "django": [
+      "django official tutorial",
+      "django for beginners book",
+      "django documentation guides",
+      "freecodecamp django course",
+      "real python django tutorials"
+    ],
+  
+    "flask": [
+      "flask official documentation",
+      "flask mega tutorial by miguel grinberg",
+      "freecodecamp flask course",
+      "real python flask tutorials",
+      "build a flask rest api project"
+    ],
+  
+    "fastapi": [
+      "fastapi official documentation",
+      "fastapi crash courses",
+      "fastapi project templates",
+      "testdriven.io fastapi tutorials",
+      "fastapi github project examples"
+    ],
+  
+    "system design": [
+      "system design primer github",
+      "grokking the system design interview",
+      "designing data intensive applications",
+      "high scalability blog",
+      "system design mock interview practice"
+    ],
+  
+    "mlops": [
+      "deeplearning.ai mlops specialization",
+      "mlops community talks and guides",
+      "full stack deep learning mlops modules",
+      "google mlops resources",
+      "build ml deployment pipeline project"
+    ],
+  
+    "cybersecurity fundamentals": [
+      "cs50 introduction to cybersecurity",
+      "tryhackme beginner path",
+      "owasp top 10 documentation",
+      "cybrary cybersecurity courses",
+      "hackthebox academy labs"
+    ]
+  }
