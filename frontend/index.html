@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<title>Career Compass AI</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Career Compass AI</h1>
+<p class="subtitle">Your AI-powered career guide</p>
+
+<div class="chat-box">
+
+<input
+id="userInput"
+type="text"
+placeholder="Example: I know Python and Machine Learning"
+/>
+
+<button onclick="sendMessage()">Analyze</button>
+
+</div>
+
+<div class="dashboard">
+
+<div class="card">
+<h2>Detected Skills</h2>
+<ul id="skills"></ul>
+</div>
+
+<div class="card">
+<h2>Recommended Career</h2>
+<p id="career"></p>
+</div>
+
+<div class="card">
+<h2>Top Career Matches</h2>
+<ul id="topCareers"></ul>
+</div>
+
+<div class="card">
+<h2>Missing Skills</h2>
+<ul id="missing"></ul>
+</div>
+
+<div class="card">
+<h2>Learning Roadmap</h2>
+<ul id="roadmap"></ul>
+</div>
+
+<div class="card">
+<h2>Learning Resources</h2>
+<div id="resources"></div>
+</div>
+
+<div class="card">
+<h2>Career Match Chart</h2>
+<canvas id="careerChart"></canvas>
+</div>
+
+<div class="card">
+<h2>Skill Radar</h2>
+<canvas id="skillRadar"></canvas>
+</div>
+
+</div>
+
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
+
+</body>
+</html>

@@ -1,24 +1,21 @@
 import json
 
-# load career skills dataset
-with open("datasets/career_skills.json", "r") as f:
+with open("datasets/career_skills.json","r") as f:
     career_data = json.load(f)
 
 
 def recommend_careers(user_skills, top_n=3):
+
     scores = {}
 
-    for career, required_skills in career_data.items():
-        matched = set(user_skills) & set(required_skills)
+    for career, skills in career_data.items():
 
-        if len(required_skills) == 0:
-            score = 0
-        else:
-            score = len(matched) / len(required_skills)
+        match_count = len(set(user_skills) & set(skills))
 
-        scores[career] = score
+        score = match_count / len(skills)
 
-    # sort careers by score
+        scores[career] = round(score * 100,2)
+
     ranked = sorted(scores.items(), key=lambda x: x[1], reverse=True)
 
     return ranked[:top_n]
