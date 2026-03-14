@@ -1,81 +1,79 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-<meta charset="UTF-8">
-<title>Career Compass AI</title>
-<link rel="stylesheet" href="style.css">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Career Compass AI</title>
+  <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
+  <div class="page-wrapper">
+    <!-- Logo -->
+    <header class="header">
+      <img src="assets/logo.png" alt="Career Compass AI" class="logo" />
+    </header>
 
-<div class="container">
+    <!-- Input Section -->
+    <section class="input-section">
+      <div class="input-wrap">
+        <input
+          id="userInput"
+          type="text"
+          class="input-field"
+          placeholder="Example: I know Python and Machine Learning"
+          autocomplete="off"
+        />
+        <button type="button" class="btn-analyze" onclick="sendMessage()">Analyze</button>
+      </div>
+    </section>
 
-<h1>Career Compass AI</h1>
-<p class="subtitle">Your AI-powered career guide</p>
+    <!-- Dashboard Grid -->
+    <main class="dashboard" id="dashboard">
+      <!-- Row 1 -->
+      <article class="card card--skills" data-card>
+        <h2 class="card__title">Detected Skills</h2>
+        <div id="skills" class="card__pills"></div>
+      </article>
+      <article class="card card--career" data-card>
+        <h2 class="card__title">Recommended Career</h2>
+        <p id="career" class="card__career-name"></p>
+      </article>
+      <!-- Row 2 -->
+      <article class="card card--top-careers" data-card>
+        <h2 class="card__title">Top Career Matches</h2>
+        <div id="topCareers" class="card__progress-list"></div>
+      </article>
+      <article class="card card--missing" data-card>
+        <h2 class="card__title">Missing Skills</h2>
+        <div id="missing" class="card__pills"></div>
+      </article>
+      <!-- Row 3 -->
+      <article class="card card--roadmap" data-card>
+        <h2 class="card__title">Learning Roadmap</h2>
+        <ul id="roadmap" class="card__list"></ul>
+      </article>
+      <article class="card card--resources" data-card>
+        <h2 class="card__title">Learning Resources</h2>
+        <div id="resources" class="card__resources"></div>
+      </article>
+      <!-- Row 4 -->
+      <article class="card card--chart" data-card>
+        <h2 class="card__title">Career Match Chart</h2>
+        <div class="card__chart-wrap">
+          <canvas id="careerChart"></canvas>
+        </div>
+      </article>
+      <article class="card card--radar" data-card>
+        <h2 class="card__title">Skill Radar</h2>
+        <div class="card__chart-wrap">
+          <canvas id="skillRadar"></canvas>
+        </div>
+      </article>
+    </main>
+  </div>
 
-<div class="chat-box">
-
-<input
-id="userInput"
-type="text"
-placeholder="Example: I know Python and Machine Learning"
-/>
-
-<button onclick="sendMessage()">Analyze</button>
-
-</div>
-
-<div class="dashboard">
-
-<div class="card">
-<h2>Detected Skills</h2>
-<ul id="skills"></ul>
-</div>
-
-<div class="card">
-<h2>Recommended Career</h2>
-<p id="career"></p>
-</div>
-
-<div class="card">
-<h2>Top Career Matches</h2>
-<ul id="topCareers"></ul>
-</div>
-
-<div class="card">
-<h2>Missing Skills</h2>
-<ul id="missing"></ul>
-</div>
-
-<div class="card">
-<h2>Learning Roadmap</h2>
-<ul id="roadmap"></ul>
-</div>
-
-<div class="card">
-<h2>Learning Resources</h2>
-<div id="resources"></div>
-</div>
-
-<div class="card">
-<h2>Career Match Chart</h2>
-<canvas id="careerChart"></canvas>
-</div>
-
-<div class="card">
-<h2>Skill Radar</h2>
-<canvas id="skillRadar"></canvas>
-</div>
-
-</div>
-
-</div>
-
-<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-<script src="app.js"></script>
-</body>
-</html>
-
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.2/anime.min.js"></script>
+  <script src="app.js"></script>
 </body>
 </html>
