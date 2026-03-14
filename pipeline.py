@@ -18,7 +18,7 @@ def run_pipeline(user_message):
     top_careers = recommend_careers(expanded)
 
     # best career
-    best_career = top_careers[0][0]
+    best_career = top_careers[0][0] if top_careers else None
 
     # Phase 7: skill gap
     missing_skills = find_skill_gap(best_career, expanded)
